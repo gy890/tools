@@ -1,0 +1,61 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1498457574561" stop="1498457574580">
+  <description>
+Created on 2017-06-19
+
+@Filename: test_params
+@Author: Gui
+
+
+</description>
+  <name>pytest_demos.test_params</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1498457574561" status="passed" stop="1498457574563">
+      <name>test_not_2[1]</name>
+      <attachments>
+        <attachment source="884ad08c-dc94-4be3-bd40-f36cf7710ab5-attachment.txt" title="Captured stdout call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="13244-MainThread"/>
+        <label name="host" value="DESKTOP-C6A0IIE"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1498457574568" status="failed" stop="1498457574575">
+      <name>test_not_2[2]</name>
+      <failure>
+        <message>AssertionError: assert 2 != 2</message>
+        <stack-trace>test_data = 2
+
+    def test_not_2(test_data):
+        print('test_data: %s' % test_data)
+&gt;       assert test_data !=2
+E       assert 2 != 2
+
+test_params.py:20: AssertionError</stack-trace>
+      </failure>
+      <attachments>
+        <attachment source="497eba68-488a-4168-8097-b56433582f94-attachment.txt" title="Captured stdout call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="13244-MainThread"/>
+        <label name="host" value="DESKTOP-C6A0IIE"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1498457574579" status="passed" stop="1498457574580">
+      <name>test_not_2[3]</name>
+      <attachments>
+        <attachment source="a9b4ac0e-2649-4cf1-b73f-348017ac73cf-attachment.txt" title="Captured stdout call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="13244-MainThread"/>
+        <label name="host" value="DESKTOP-C6A0IIE"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>

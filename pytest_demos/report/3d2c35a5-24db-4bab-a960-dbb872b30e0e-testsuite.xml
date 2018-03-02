@@ -1,0 +1,76 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1498457574593" stop="1498457616921">
+  <description>
+Created on 2017-06-19
+
+@Filename: test_smtpsimple
+@Author: Gui
+
+
+</description>
+  <name>pytest_demos.test_smtpsimple</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1498457574593" status="broken" stop="1498457616921">
+      <name>test_ehlo</name>
+      <failure>
+        <message>TimeoutError: [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。</message>
+        <stack-trace>@pytest.fixture
+    def smtp():
+        import smtplib
+&gt;       return smtplib.SMTP('smtp.gmail.com')
+
+test_smtpsimple.py:16: 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+c:\python35\lib\smtplib.py:251: in __init__
+    (code, msg) = self.connect(host, port)
+c:\python35\lib\smtplib.py:335: in connect
+    self.sock = self._get_socket(host, port, self.timeout)
+c:\python35\lib\smtplib.py:306: in _get_socket
+    self.source_address)
+c:\python35\lib\socket.py:712: in create_connection
+    raise err
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+
+address = ('smtp.gmail.com', 25)
+timeout = &lt;object object at 0x000001DBDA5CF150&gt;, source_address = None
+
+    def create_connection(address, timeout=_GLOBAL_DEFAULT_TIMEOUT,
+                          source_address=None):
+        """Connect to *address* and return the socket object.
+    
+        Convenience function.  Connect to *address* (a 2-tuple ``(host,
+        port)``) and return the socket object.  Passing the optional
+        *timeout* parameter will set the timeout on the socket instance
+        before attempting to connect.  If no *timeout* is supplied, the
+        global default timeout setting returned by :func:`getdefaulttimeout`
+        is used.  If *source_address* is set it must be a tuple of (host, port)
+        for the socket to bind as a source address before making the connection.
+        A host of '' or port 0 tells the OS to use the default.
+        """
+    
+        host, port = address
+        err = None
+        for res in getaddrinfo(host, port, 0, SOCK_STREAM):
+            af, socktype, proto, canonname, sa = res
+            sock = None
+            try:
+                sock = socket(af, socktype, proto)
+                if timeout is not _GLOBAL_DEFAULT_TIMEOUT:
+                    sock.settimeout(timeout)
+                if source_address:
+                    sock.bind(source_address)
+&gt;               sock.connect(sa)
+E               TimeoutError: [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。
+
+c:\python35\lib\socket.py:703: TimeoutError</stack-trace>
+      </failure>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="13244-MainThread"/>
+        <label name="host" value="DESKTOP-C6A0IIE"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>

@@ -1,0 +1,37 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1498457616925" stop="1498457616951">
+  <description>
+Created on 2017-06-19
+
+@Filename: test_tmpdir
+@Author: Gui
+
+
+</description>
+  <name>pytest_demos.test_tmpdir</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1498457616925" status="failed" stop="1498457616951">
+      <name>test_needsfiles</name>
+      <failure>
+        <message>AssertionError: assert 0</message>
+        <stack-trace>tmpdir = local('C:\\Users\\Gui\\AppData\\Local\\Temp\\pytest-of-Gui\\pytest-7\\test_needsfiles0')
+
+    def test_needsfiles(tmpdir):
+        print(tmpdir)
+&gt;       assert 0
+E       assert 0
+
+test_tmpdir.py:14: AssertionError</stack-trace>
+      </failure>
+      <attachments>
+        <attachment source="cc72cebe-ea99-46cd-aa36-b238d8150de2-attachment.txt" title="Captured stdout call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="13244-MainThread"/>
+        <label name="host" value="DESKTOP-C6A0IIE"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>

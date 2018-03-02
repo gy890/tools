@@ -1,0 +1,34 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1498457574585" stop="1498457574592">
+  <description>
+Created on 2017-06-19
+
+@Filename: test_sample
+@Author: Gui
+
+
+</description>
+  <name>pytest_demos.test_sample</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1498457574585" status="failed" stop="1498457574592">
+      <name>test_answer</name>
+      <failure>
+        <message>AssertionError: assert 4 == 5
+ +  where 4 = func(3)</message>
+        <stack-trace>def test_answer():
+&gt;       assert func(3) == 5
+E       assert 4 == 5
+E        +  where 4 = func(3)
+
+test_sample.py:17: AssertionError</stack-trace>
+      </failure>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="13244-MainThread"/>
+        <label name="host" value="DESKTOP-C6A0IIE"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>

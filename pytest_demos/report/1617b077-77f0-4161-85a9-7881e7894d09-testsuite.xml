@@ -1,0 +1,24 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1498457616923" stop="1498457616925">
+  <description>
+Created on 2017-06-19
+
+@Filename: test_sysexit
+@Author: Gui
+
+
+</description>
+  <name>pytest_demos.test_sysexit</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1498457616923" status="passed" stop="1498457616925">
+      <name>test_mytest</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="13244-MainThread"/>
+        <label name="host" value="DESKTOP-C6A0IIE"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>

@@ -1,0 +1,325 @@
+1494480570607	geckodriver	INFO	Listening on 127.0.0.1:52087
+1494480572694	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1494480572968	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < AddonManagerInternal.validateBlocklist()@resource://gre/modules/AddonManager.jsm:700 < AddonManagerInternal.startup()@resource://gre/modules/AddonManager.jsm:870 < this.AddonManagerPrivate.startup()@resource://gre/modules/AddonManager.jsm:3033 < amManager.prototype.observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1677: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1494480574388	Marionette	INFO	Listening on port 52097
+1494480574834	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2585: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: https://s.yimg.com/cv/ae/hk/01868551/970x110.html, line 58: TypeError: document.getElementById(...) is null
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+1494480810436	geckodriver	INFO	Listening on 127.0.0.1:52577
+1494480812569	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1494480812860	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < AddonManagerInternal.validateBlocklist()@resource://gre/modules/AddonManager.jsm:700 < AddonManagerInternal.startup()@resource://gre/modules/AddonManager.jsm:870 < this.AddonManagerPrivate.startup()@resource://gre/modules/AddonManager.jsm:3033 < amManager.prototype.observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1677: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1494480814543	Marionette	INFO	Listening on port 52585
+1494480814640	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2585: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1494480820386	Marionette	INFO	New connections will no longer be accepted
+1494481147309	geckodriver	INFO	Listening on 127.0.0.1:53072
+1494481149360	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1494481149648	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < AddonManagerInternal.validateBlocklist()@resource://gre/modules/AddonManager.jsm:700 < AddonManagerInternal.startup()@resource://gre/modules/AddonManager.jsm:870 < this.AddonManagerPrivate.startup()@resource://gre/modules/AddonManager.jsm:3033 < amManager.prototype.observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1677: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1494481150871	Marionette	INFO	Listening on port 53080
+1494481150935	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2585: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1494481157388	Marionette	INFO	New connections will no longer be accepted
+1494481193630	geckodriver	INFO	Listening on 127.0.0.1:53164
+1494481195680	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1494481195914	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < AddonManagerInternal.validateBlocklist()@resource://gre/modules/AddonManager.jsm:700 < AddonManagerInternal.startup()@resource://gre/modules/AddonManager.jsm:870 < this.AddonManagerPrivate.startup()@resource://gre/modules/AddonManager.jsm:3033 < amManager.prototype.observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1677: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1494481197516	Marionette	INFO	Listening on port 53174
+1494481197814	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2585: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1494481203979	Marionette	INFO	New connections will no longer be accepted
+1494483480167	geckodriver	INFO	Listening on 127.0.0.1:57378
+1494483483423	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1494483484058	addons.manager	DEBUG	Loaded provider scope for resource://gre/modules/addons/XPIProvider.jsm: ["XPIProvider"]
+1494483484060	addons.manager	DEBUG	Loaded provider scope for resource://gre/modules/LightweightThemeManager.jsm: ["LightweightThemeManager"]
+1494483484063	addons.manager	DEBUG	Loaded provider scope for resource://gre/modules/addons/GMPProvider.jsm
+1494483484065	addons.manager	DEBUG	Loaded provider scope for resource://gre/modules/addons/PluginProvider.jsm
+1494483484066	addons.manager	DEBUG	Starting provider: XPIProvider
+1494483484066	addons.xpi	DEBUG	startup
+1494483484067	addons.xpi	INFO	Mapping {3e9a3920-1b27-11da-8cd6-0800200c9a66} to C:\Users\Gui\AppData\Local\Temp\rust_mozprofile.MbZrgMzUJ6k3\extensions\{3e9a3920-1b27-11da-8cd6-0800200c9a66}.xpi
+1494483484067	addons.xpi	INFO	SystemAddonInstallLocation scanning directory C:\Users\Gui\AppData\Local\Temp\rust_mozprofile.MbZrgMzUJ6k3\features\{3ecf4fe2-636d-4090-91f7-0c73ef99feac}
+1494483484067	addons.xpi	INFO	Mapping disable-cert-transparency@mozilla.org to C:\Users\Gui\AppData\Local\Temp\rust_mozprofile.MbZrgMzUJ6k3\features\{3ecf4fe2-636d-4090-91f7-0c73ef99feac}\disable-cert-transparency@mozilla.org.xpi
+1494483484067	addons.xpi	INFO	Mapping disable-prefetch@mozilla.org to C:\Users\Gui\AppData\Local\Temp\rust_mozprofile.MbZrgMzUJ6k3\features\{3ecf4fe2-636d-4090-91f7-0c73ef99feac}\disable-prefetch@mozilla.org.xpi
+1494483484068	addons.xpi	INFO	Mapping e10srollout@mozilla.org to C:\Users\Gui\AppData\Local\Temp\rust_mozprofile.MbZrgMzUJ6k3\features\{3ecf4fe2-636d-4090-91f7-0c73ef99feac}\e10srollout@mozilla.org.xpi
+1494483484068	addons.xpi	DEBUG	checkForChanges
+1494483484069	addons.xpi	DEBUG	Loaded add-on state from prefs: {"app-profile":{"{3e9a3920-1b27-11da-8cd6-0800200c9a66}":{"d":"C:\\Users\\Gui\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles\\pg1j7ph2.default\\extensions\\{3e9a3920-1b27-11da-8cd6-0800200c9a66}.xpi","e":true,"v":"3.11","st":1492739942003}},"app-system-defaults":{"aushelper@mozilla.org":{"d":"C:\\Program Files (x86)\\Mozilla Firefox\\browser\\features\\aushelper@mozilla.org.xpi","e":true,"v":"2.0","st":1492739939663},"deployment-checker@mozilla.org":{"d":"C:\\Program Files (x86)\\Mozilla Firefox\\browser\\features\\deployment-checker@mozilla.org.xpi","e":true,"v":"1.0","st":1492739939766},"e10srollout@mozilla.org":{"d":"C:\\Program Files (x86)\\Mozilla Firefox\\browser\\features\\e10srollout@mozilla.org.xpi","e":true,"v":"1.9","st":1492739939661},"firefox@getpocket.com":{"d":"C:\\Program Files (x86)\\Mozilla Firefox\\browser\\features\\firefox@getpocket.com.xpi","e":true,"v":"1.0.5","st":1492739939659},"webcompat@mozilla.org":{"d":"C:\\Program Files (x86)\\Mozilla Firefox\\browser\\features\\webcompat@mozilla.org.xpi","e":true,"v":"1.0","st":1492739939648}},"app-global":{"{972ce4c6-7e08-4474-a285-3208198ce6fd}":{"d":"C:\\Program Files (x86)\\Mozilla Firefox\\browser\\extensions\\{972ce4c6-7e08-4474-a285-3208198ce6fd}.xpi","e":true,"v":"52.0.2","st":1492739939678}},"app-system-addons":{"disable-cert-transparency@mozilla.org":{"d":"C:\\Users\\Gui\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles\\pg1j7ph2.default\\features\\{3ecf4fe2-636d-4090-91f7-0c73ef99feac}\\disable-cert-transparency@mozilla.org.xpi","e":true,"v":"1.0","st":1492739977039},"disable-prefetch@mozilla.org":{"d":"C:\\Users\\Gui\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles\\pg1j7ph2.default\\features\\{3ecf4fe2-636d-4090-91f7-0c73ef99feac}\\disable-prefetch@mozilla.org.xpi","e":true,"v":"1.0","st":1492739977084},"e10srollout@mozilla.org":{"d":"C:\\Users\\Gui\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles\\pg1j7ph2.default\\features\\{3ecf4fe2-636d-4090-91f7-0c73ef99feac}\\e10srollout@mozilla.org.xpi","e":true,"v":"1.12","st":1492739977107}}}
+1494483484070	addons.xpi	DEBUG	getModTime: Recursive scan of {3e9a3920-1b27-11da-8cd6-0800200c9a66}
+1494483484070	addons.xpi	DEBUG	Changed add-on {3e9a3920-1b27-11da-8cd6-0800200c9a66} in app-profile
+1494483484071	addons.xpi	DEBUG	getModTime: Recursive scan of disable-cert-transparency@mozilla.org
+1494483484071	addons.xpi	DEBUG	Changed add-on disable-cert-transparency@mozilla.org in app-system-addons
+1494483484071	addons.xpi	DEBUG	getModTime: Recursive scan of disable-prefetch@mozilla.org
+1494483484072	addons.xpi	DEBUG	Changed add-on disable-prefetch@mozilla.org in app-system-addons
+1494483484072	addons.xpi	DEBUG	getModTime: Recursive scan of e10srollout@mozilla.org
+1494483484072	addons.xpi	DEBUG	Changed add-on e10srollout@mozilla.org in app-system-addons
+1494483484073	addons.xpi	DEBUG	getInstallState changed: true, state: {"app-profile":{"{3e9a3920-1b27-11da-8cd6-0800200c9a66}":{"d":"C:\\Users\\Gui\\AppData\\Local\\Temp\\rust_mozprofile.MbZrgMzUJ6k3\\extensions\\{3e9a3920-1b27-11da-8cd6-0800200c9a66}.xpi","e":true,"v":"3.11","st":1494483483227}},"app-system-addons":{"disable-cert-transparency@mozilla.org":{"d":"C:\\Users\\Gui\\AppData\\Local\\Temp\\rust_mozprofile.MbZrgMzUJ6k3\\features\\{3ecf4fe2-636d-4090-91f7-0c73ef99feac}\\disable-cert-transparency@mozilla.org.xpi","e":true,"v":"1.0","st":1494483483229},"disable-prefetch@mozilla.org":{"d":"C:\\Users\\Gui\\AppData\\Local\\Temp\\rust_mozprofile.MbZrgMzUJ6k3\\features\\{3ecf4fe2-636d-4090-91f7-0c73ef99feac}\\disable-prefetch@mozilla.org.xpi","e":true,"v":"1.0","st":1494483483230},"e10srollout@mozilla.org":{"d":"C:\\Users\\Gui\\AppData\\Local\\Temp\\rust_mozprofile.MbZrgMzUJ6k3\\features\\{3ecf4fe2-636d-4090-91f7-0c73ef99feac}\\e10srollout@mozilla.org.xpi","e":true,"v":"1.12","st":1494483483230}}}
+1494483484080	addons.xpi-utils	DEBUG	Opening XPI database C:\Users\Gui\AppData\Local\Temp\rust_mozprofile.MbZrgMzUJ6k3\extensions.json
+1494483484083	addons.xpi-utils	DEBUG	Successfully read XPI database
+1494483484085	addons.xpi-utils	DEBUG	Add-on {3e9a3920-1b27-11da-8cd6-0800200c9a66} modified in app-profile
+*** Blocklist::_loadBlocklistFromFile: blocklist is disabled
+1494483484097	DeferredSave.extensions.json	DEBUG	Save changes
+1494483484098	DeferredSave.extensions.json	DEBUG	Save changes
+1494483484098	addons.xpi-utils	DEBUG	Add-on disable-cert-transparency@mozilla.org modified in app-system-addons
+1494483484101	DeferredSave.extensions.json	DEBUG	Starting timer
+1494483484105	DeferredSave.extensions.json	DEBUG	Save changes
+1494483484106	DeferredSave.extensions.json	DEBUG	Save changes
+1494483484106	addons.xpi-utils	DEBUG	Add-on disable-prefetch@mozilla.org modified in app-system-addons
+1494483484113	DeferredSave.extensions.json	DEBUG	Save changes
+1494483484113	DeferredSave.extensions.json	DEBUG	Save changes
+1494483484113	addons.xpi-utils	DEBUG	Add-on e10srollout@mozilla.org modified in app-system-addons
+1494483484120	DeferredSave.extensions.json	DEBUG	Save changes
+1494483484120	DeferredSave.extensions.json	DEBUG	Save changes
+1494483484120	addons.xpi-utils	DEBUG	Add-on aushelper@mozilla.org removed from app-system-defaults
+1494483484120	DeferredSave.extensions.json	DEBUG	Save changes
+1494483484120	addons.xpi-utils	DEBUG	Add-on e10srollout@mozilla.org removed from app-system-defaults
+1494483484121	DeferredSave.extensions.json	DEBUG	Save changes
+1494483484121	addons.xpi-utils	DEBUG	Add-on firefox@getpocket.com removed from app-system-defaults
+1494483484121	DeferredSave.extensions.json	DEBUG	Save changes
+1494483484121	addons.xpi-utils	DEBUG	Add-on webcompat@mozilla.org removed from app-system-defaults
+1494483484121	DeferredSave.extensions.json	DEBUG	Save changes
+1494483484121	addons.xpi-utils	DEBUG	Add-on deployment-checker@mozilla.org removed from app-system-defaults
+1494483484121	DeferredSave.extensions.json	DEBUG	Save changes
+1494483484121	addons.xpi-utils	DEBUG	Add-on {972ce4c6-7e08-4474-a285-3208198ce6fd} removed from app-global
+1494483484121	DeferredSave.extensions.json	DEBUG	Save changes
+1494483484122	addons.manager	DEBUG	Registering startup change 'changed' for {3e9a3920-1b27-11da-8cd6-0800200c9a66}
+1494483484122	addons.xpi-utils	DEBUG	Make addon app-profile:{3e9a3920-1b27-11da-8cd6-0800200c9a66} visible
+1494483484137	addons.xpi	DEBUG	Add-on {3e9a3920-1b27-11da-8cd6-0800200c9a66} blocks e10s rollout.
+1494483484137	DeferredSave.extensions.json	DEBUG	Save changes
+1494483484137	addons.manager	DEBUG	Registering startup change 'changed' for disable-cert-transparency@mozilla.org
+1494483484144	addons.xpi	DEBUG	Loading bootstrap scope from C:\Users\Gui\AppData\Roaming\Mozilla\Firefox\Profiles\pg1j7ph2.default\features\{3ecf4fe2-636d-4090-91f7-0c73ef99feac}\disable-cert-transparency@mozilla.org.xpi
+1494483484147	addons.xpi	DEBUG	Calling bootstrap method uninstall on disable-cert-transparency@mozilla.org version 1.0
+1494483484148	addons.xpi	DEBUG	Loading bootstrap scope from C:\Users\Gui\AppData\Local\Temp\rust_mozprofile.MbZrgMzUJ6k3\features\{3ecf4fe2-636d-4090-91f7-0c73ef99feac}\disable-cert-transparency@mozilla.org.xpi
+1494483484150	addons.xpi	DEBUG	Calling bootstrap method install on disable-cert-transparency@mozilla.org version 1.0
+1494483484150	addons.xpi-utils	DEBUG	Make addon app-system-addons:disable-cert-transparency@mozilla.org visible
+1494483484150	addons.xpi	DEBUG	Add-on {3e9a3920-1b27-11da-8cd6-0800200c9a66} blocks e10s rollout.
+1494483484151	DeferredSave.extensions.json	DEBUG	Save changes
+1494483484151	addons.manager	DEBUG	Registering startup change 'changed' for disable-prefetch@mozilla.org
+1494483484151	addons.xpi	DEBUG	Loading bootstrap scope from C:\Users\Gui\AppData\Roaming\Mozilla\Firefox\Profiles\pg1j7ph2.default\features\{3ecf4fe2-636d-4090-91f7-0c73ef99feac}\disable-prefetch@mozilla.org.xpi
+1494483484152	addons.xpi	DEBUG	Calling bootstrap method uninstall on disable-prefetch@mozilla.org version 1.0
+1494483484153	addons.xpi	DEBUG	Loading bootstrap scope from C:\Users\Gui\AppData\Local\Temp\rust_mozprofile.MbZrgMzUJ6k3\features\{3ecf4fe2-636d-4090-91f7-0c73ef99feac}\disable-prefetch@mozilla.org.xpi
+1494483484155	addons.xpi	DEBUG	Calling bootstrap method install on disable-prefetch@mozilla.org version 1.0
+1494483484155	addons.xpi-utils	DEBUG	Make addon app-system-addons:disable-prefetch@mozilla.org visible
+1494483484155	addons.xpi	DEBUG	Add-on {3e9a3920-1b27-11da-8cd6-0800200c9a66} blocks e10s rollout.
+1494483484155	DeferredSave.extensions.json	DEBUG	Save changes
+1494483484155	addons.manager	DEBUG	Registering startup change 'changed' for e10srollout@mozilla.org
+1494483484156	addons.xpi	DEBUG	Loading bootstrap scope from C:\Users\Gui\AppData\Roaming\Mozilla\Firefox\Profiles\pg1j7ph2.default\features\{3ecf4fe2-636d-4090-91f7-0c73ef99feac}\e10srollout@mozilla.org.xpi
+1494483484157	addons.xpi	DEBUG	Calling bootstrap method uninstall on e10srollout@mozilla.org version 1.12
+1494483484158	addons.xpi	DEBUG	Loading bootstrap scope from C:\Users\Gui\AppData\Local\Temp\rust_mozprofile.MbZrgMzUJ6k3\features\{3ecf4fe2-636d-4090-91f7-0c73ef99feac}\e10srollout@mozilla.org.xpi
+1494483484160	addons.xpi	DEBUG	Calling bootstrap method install on e10srollout@mozilla.org version 1.12
+1494483484161	addons.xpi-utils	DEBUG	Make addon app-system-addons:e10srollout@mozilla.org visible
+1494483484161	addons.xpi	DEBUG	Add-on {3e9a3920-1b27-11da-8cd6-0800200c9a66} blocks e10s rollout.
+1494483484161	DeferredSave.extensions.json	DEBUG	Save changes
+1494483484161	addons.xpi	DEBUG	Loading bootstrap scope from C:\Program Files (x86)\Mozilla Firefox\browser\features\aushelper@mozilla.org.xpi
+1494483484166	addons.xpi	DEBUG	Calling bootstrap method uninstall on aushelper@mozilla.org version 2.0
+1494483484167	addons.manager	DEBUG	Registering startup change 'uninstalled' for aushelper@mozilla.org
+1494483484167	addons.xpi	DEBUG	Loading bootstrap scope from C:\Program Files (x86)\Mozilla Firefox\browser\features\firefox@getpocket.com.xpi
+1494483484182	addons.xpi	DEBUG	Calling bootstrap method uninstall on firefox@getpocket.com version 1.0.5
+1494483484182	addons.manager	DEBUG	Registering startup change 'uninstalled' for firefox@getpocket.com
+1494483484182	addons.xpi	DEBUG	Loading bootstrap scope from C:\Program Files (x86)\Mozilla Firefox\browser\features\webcompat@mozilla.org.xpi
+1494483484186	addons.xpi	DEBUG	Calling bootstrap method uninstall on webcompat@mozilla.org version 1.0
+1494483484187	addons.manager	DEBUG	Registering startup change 'uninstalled' for webcompat@mozilla.org
+1494483484187	addons.xpi	DEBUG	Loading bootstrap scope from C:\Program Files (x86)\Mozilla Firefox\browser\features\deployment-checker@mozilla.org.xpi
+1494483484194	addons.xpi	DEBUG	Calling bootstrap method uninstall on deployment-checker@mozilla.org version 1.0
+1494483484194	addons.manager	DEBUG	Registering startup change 'uninstalled' for deployment-checker@mozilla.org
+1494483484195	addons.manager	DEBUG	Registering startup change 'uninstalled' for {972ce4c6-7e08-4474-a285-3208198ce6fd}
+1494483484195	addons.xpi	DEBUG	Updating XPIState for {"id":"{3e9a3920-1b27-11da-8cd6-0800200c9a66}","syncGUID":"{a26b3998-2e9f-499e-bbd7-67bcec77c523}","location":"app-profile","version":"3.11","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":"chrome://charles/content/about.xul","icons":{},"iconURL":"chrome://charles/skin/charles_icon.png","icon64URL":null,"defaultLocale":{"name":"Charles Proxy Auto-configuration","description":"Auto-configures Mozilla Firefox for use with Charles Web Debugging Proxy.","creator":"XK72","homepageURL":"http://www.charlesproxy.com/"},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"descriptor":"C:\\Users\\Gui\\AppData\\Local\\Temp\\rust_mozprofile.MbZrgMzUJ6k3\\extensions\\{3e9a3920-1b27-11da-8cd6-0800200c9a66}.xpi","installDate":1492739942003,"updateDate":1494483483227,"applyBackgroundUpdates":1,"bootstrap":false,"skinnable":false,"size":24288,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"1.5","maxVersion":"12.*"}],"targetPlatforms":[],"multiprocessCompatible":false,"signedState":2,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false}
+1494483484195	addons.xpi	DEBUG	Updating XPIState for {"id":"disable-cert-transparency@mozilla.org","syncGUID":"{da4fbd34-cbc6-4362-a25a-f42f63b7e8ad}","location":"app-system-addons","version":"1.0","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"icons":{},"iconURL":null,"icon64URL":null,"defaultLocale":{"name":"Disable TLS Certificate Transparency","description":"Disables TLS Certificate Transparency default in 52.* (see bug 1293231)","creator":null,"homepageURL":null},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"descriptor":"C:\\Users\\Gui\\AppData\\Local\\Temp\\rust_mozprofile.MbZrgMzUJ6k3\\features\\{3ecf4fe2-636d-4090-91f7-0c73ef99feac}\\disable-cert-transparency@mozilla.org.xpi","installDate":1492739977039,"updateDate":1494483483229,"applyBackgroundUpdates":1,"bootstrap":true,"skinnable":false,"size":6534,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"52.0","maxVersion":"52.*"}],"targetPlatforms":[],"multiprocessCompatible":true,"signedState":3,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false}
+1494483484195	addons.xpi	DEBUG	Updating XPIState for {"id":"disable-prefetch@mozilla.org","syncGUID":"{fa43d1bd-1a32-4205-86a8-b3706b08969b}","location":"app-system-addons","version":"1.0","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"icons":{},"iconURL":null,"icon64URL":null,"defaultLocale":{"name":"Disable Prefetch","description":"Disables predictive prefetch by default in 52.*.","creator":null,"homepageURL":null},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"descriptor":"C:\\Users\\Gui\\AppData\\Local\\Temp\\rust_mozprofile.MbZrgMzUJ6k3\\features\\{3ecf4fe2-636d-4090-91f7-0c73ef99feac}\\disable-prefetch@mozilla.org.xpi","installDate":1492739977084,"updateDate":1494483483230,"applyBackgroundUpdates":1,"bootstrap":true,"skinnable":false,"size":6469,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"52.0","maxVersion":"52.*"}],"targetPlatforms":[],"multiprocessCompatible":true,"signedState":3,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false}
+1494483484196	addons.xpi	DEBUG	Updating XPIState for {"id":"e10srollout@mozilla.org","syncGUID":"{9e7e5685-ac7f-4c7d-a3dd-60af44a0c45c}","location":"app-system-addons","version":"1.12","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"icons":{},"iconURL":null,"icon64URL":null,"defaultLocale":{"name":"Multi-process staged rollout","description":"Staged rollout of Firefox multi-process feature.","creator":null,"homepageURL":null},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"descriptor":"C:\\Users\\Gui\\AppData\\Local\\Temp\\rust_mozprofile.MbZrgMzUJ6k3\\features\\{3ecf4fe2-636d-4090-91f7-0c73ef99feac}\\e10srollout@mozilla.org.xpi","installDate":1492739977107,"updateDate":1494483483230,"applyBackgroundUpdates":1,"bootstrap":true,"skinnable":false,"size":11854,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"51.0","maxVersion":"52.*"}],"targetPlatforms":[],"multiprocessCompatible":true,"signedState":3,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false}
+1494483484196	addons.xpi	DEBUG	Add-on {3e9a3920-1b27-11da-8cd6-0800200c9a66} blocks e10s rollout.
+1494483484196	DeferredSave.extensions.json	DEBUG	Save changes
+1494483484196	addons.xpi	DEBUG	Updating database with changes to installed add-ons
+1494483484196	addons.xpi-utils	DEBUG	Updating add-on states
+1494483484197	addons.xpi-utils	DEBUG	Writing add-ons list
+1494483484203	addons.xpi	DEBUG	Registering manifest for C:\Users\Gui\AppData\Local\Temp\rust_mozprofile.MbZrgMzUJ6k3\features\{3ecf4fe2-636d-4090-91f7-0c73ef99feac}\disable-cert-transparency@mozilla.org.xpi
+1494483484204	addons.xpi	DEBUG	Calling bootstrap method startup on disable-cert-transparency@mozilla.org version 1.0
+1494483484204	addons.xpi	DEBUG	Registering manifest for C:\Users\Gui\AppData\Local\Temp\rust_mozprofile.MbZrgMzUJ6k3\features\{3ecf4fe2-636d-4090-91f7-0c73ef99feac}\disable-prefetch@mozilla.org.xpi
+1494483484205	addons.xpi	DEBUG	Calling bootstrap method startup on disable-prefetch@mozilla.org version 1.0
+1494483484205	addons.xpi	DEBUG	Registering manifest for C:\Users\Gui\AppData\Local\Temp\rust_mozprofile.MbZrgMzUJ6k3\features\{3ecf4fe2-636d-4090-91f7-0c73ef99feac}\e10srollout@mozilla.org.xpi
+1494483484206	addons.xpi	DEBUG	Calling bootstrap method startup on e10srollout@mozilla.org version 1.12
+1494483484207	addons.manager	DEBUG	Registering shutdown blocker for XPIProvider
+1494483484207	addons.manager	DEBUG	Provider finished startup: XPIProvider
+1494483484207	addons.manager	DEBUG	Starting provider: LightweightThemeManager
+1494483484207	addons.manager	DEBUG	Registering shutdown blocker for LightweightThemeManager
+1494483484208	addons.manager	DEBUG	Provider finished startup: LightweightThemeManager
+1494483484208	addons.manager	DEBUG	Starting provider: GMPProvider
+1494483484216	addons.manager	DEBUG	Registering shutdown blocker for GMPProvider
+1494483484216	addons.manager	DEBUG	Provider finished startup: GMPProvider
+1494483484216	addons.manager	DEBUG	Starting provider: PluginProvider
+1494483484217	addons.manager	DEBUG	Registering shutdown blocker for PluginProvider
+1494483484217	addons.manager	DEBUG	Provider finished startup: PluginProvider
+1494483484217	addons.manager	DEBUG	Completed startup sequence
+1494483484506	Marionette	INFO	Listening on port 57384
+1494483484586	addons.manager	DEBUG	Starting provider: PreviousExperimentProvider
+1494483484586	addons.manager	DEBUG	Registering shutdown blocker for PreviousExperimentProvider
+1494483484586	addons.manager	DEBUG	Provider finished startup: PreviousExperimentProvider
+1494483484589	DeferredSave.extensions.json	DEBUG	Starting write
+1494483484696	DeferredSave.extensions.json	DEBUG	Write succeeded
+1494483484696	addons.xpi-utils	DEBUG	XPI Database saved, setting schema version preference to 19
+1494483485192	Marionette	WARN	TLS certificate errors will be ignored for this session
+1494483485329	addons.manager	DEBUG	Starting provider: <unnamed-provider>
+1494483485330	addons.manager	DEBUG	Registering shutdown blocker for <unnamed-provider>
+1494483485330	addons.manager	DEBUG	Provider finished startup: <unnamed-provider>
+1494483512182	addons.xpi	DEBUG	Calling bootstrap method shutdown on e10srollout@mozilla.org version 1.12
+1494483512182	addons.xpi	DEBUG	Calling bootstrap method shutdown on disable-prefetch@mozilla.org version 1.0
+1494483512183	addons.xpi	DEBUG	Calling bootstrap method shutdown on disable-cert-transparency@mozilla.org version 1.0
+1494483512371	addons.manager	DEBUG	shutdown
+1494483512371	addons.manager	DEBUG	Calling shutdown blocker for XPIProvider
+1494483512371	addons.xpi	DEBUG	shutdown
+1494483512371	addons.xpi-utils	DEBUG	shutdown
+1494483512372	addons.manager	DEBUG	Calling shutdown blocker for LightweightThemeManager
+1494483512372	addons.manager	DEBUG	Calling shutdown blocker for GMPProvider
+1494483512374	addons.manager	DEBUG	Calling shutdown blocker for PluginProvider
+1494483512376	addons.manager	DEBUG	Calling shutdown blocker for PreviousExperimentProvider
+1494483512376	addons.manager	DEBUG	Calling shutdown blocker for <unnamed-provider>
+1494483512378	addons.xpi	DEBUG	Notifying XPI shutdown observers
+1494483512380	addons.manager	DEBUG	Async provider shutdown done
+1494483520939	geckodriver	INFO	Listening on 127.0.0.1:57412
+1494483524192	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1494483524375	addons.manager	DEBUG	Loaded provider scope for resource://gre/modules/addons/XPIProvider.jsm: ["XPIProvider"]
+1494483524377	addons.manager	DEBUG	Loaded provider scope for resource://gre/modules/LightweightThemeManager.jsm: ["LightweightThemeManager"]
+1494483524379	addons.manager	DEBUG	Loaded provider scope for resource://gre/modules/addons/GMPProvider.jsm
+1494483524381	addons.manager	DEBUG	Loaded provider scope for resource://gre/modules/addons/PluginProvider.jsm
+1494483524381	addons.manager	DEBUG	Starting provider: XPIProvider
+1494483524382	addons.xpi	DEBUG	startup
+1494483524383	addons.xpi	INFO	Mapping {3e9a3920-1b27-11da-8cd6-0800200c9a66} to C:\Users\Gui\AppData\Local\Temp\rust_mozprofile.CbnyWpHyogTf\extensions\{3e9a3920-1b27-11da-8cd6-0800200c9a66}.xpi
+1494483524383	addons.xpi	INFO	SystemAddonInstallLocation scanning directory C:\Users\Gui\AppData\Local\Temp\rust_mozprofile.CbnyWpHyogTf\features\{3ecf4fe2-636d-4090-91f7-0c73ef99feac}
+1494483524383	addons.xpi	INFO	Mapping disable-cert-transparency@mozilla.org to C:\Users\Gui\AppData\Local\Temp\rust_mozprofile.CbnyWpHyogTf\features\{3ecf4fe2-636d-4090-91f7-0c73ef99feac}\disable-cert-transparency@mozilla.org.xpi
+1494483524383	addons.xpi	INFO	Mapping disable-prefetch@mozilla.org to C:\Users\Gui\AppData\Local\Temp\rust_mozprofile.CbnyWpHyogTf\features\{3ecf4fe2-636d-4090-91f7-0c73ef99feac}\disable-prefetch@mozilla.org.xpi
+1494483524384	addons.xpi	INFO	Mapping e10srollout@mozilla.org to C:\Users\Gui\AppData\Local\Temp\rust_mozprofile.CbnyWpHyogTf\features\{3ecf4fe2-636d-4090-91f7-0c73ef99feac}\e10srollout@mozilla.org.xpi
+1494483524384	addons.xpi	DEBUG	checkForChanges
+1494483524385	addons.xpi	DEBUG	Loaded add-on state from prefs: {"app-profile":{"{3e9a3920-1b27-11da-8cd6-0800200c9a66}":{"d":"C:\\Users\\Gui\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles\\pg1j7ph2.default\\extensions\\{3e9a3920-1b27-11da-8cd6-0800200c9a66}.xpi","e":true,"v":"3.11","st":1492739942003}},"app-system-defaults":{"aushelper@mozilla.org":{"d":"C:\\Program Files (x86)\\Mozilla Firefox\\browser\\features\\aushelper@mozilla.org.xpi","e":true,"v":"2.0","st":1492739939663},"deployment-checker@mozilla.org":{"d":"C:\\Program Files (x86)\\Mozilla Firefox\\browser\\features\\deployment-checker@mozilla.org.xpi","e":true,"v":"1.0","st":1492739939766},"e10srollout@mozilla.org":{"d":"C:\\Program Files (x86)\\Mozilla Firefox\\browser\\features\\e10srollout@mozilla.org.xpi","e":true,"v":"1.9","st":1492739939661},"firefox@getpocket.com":{"d":"C:\\Program Files (x86)\\Mozilla Firefox\\browser\\features\\firefox@getpocket.com.xpi","e":true,"v":"1.0.5","st":1492739939659},"webcompat@mozilla.org":{"d":"C:\\Program Files (x86)\\Mozilla Firefox\\browser\\features\\webcompat@mozilla.org.xpi","e":true,"v":"1.0","st":1492739939648}},"app-global":{"{972ce4c6-7e08-4474-a285-3208198ce6fd}":{"d":"C:\\Program Files (x86)\\Mozilla Firefox\\browser\\extensions\\{972ce4c6-7e08-4474-a285-3208198ce6fd}.xpi","e":true,"v":"52.0.2","st":1492739939678}},"app-system-addons":{"disable-cert-transparency@mozilla.org":{"d":"C:\\Users\\Gui\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles\\pg1j7ph2.default\\features\\{3ecf4fe2-636d-4090-91f7-0c73ef99feac}\\disable-cert-transparency@mozilla.org.xpi","e":true,"v":"1.0","st":1492739977039},"disable-prefetch@mozilla.org":{"d":"C:\\Users\\Gui\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles\\pg1j7ph2.default\\features\\{3ecf4fe2-636d-4090-91f7-0c73ef99feac}\\disable-prefetch@mozilla.org.xpi","e":true,"v":"1.0","st":1492739977084},"e10srollout@mozilla.org":{"d":"C:\\Users\\Gui\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles\\pg1j7ph2.default\\features\\{3ecf4fe2-636d-4090-91f7-0c73ef99feac}\\e10srollout@mozilla.org.xpi","e":true,"v":"1.12","st":1492739977107}}}
+1494483524386	addons.xpi	DEBUG	getModTime: Recursive scan of {3e9a3920-1b27-11da-8cd6-0800200c9a66}
+1494483524386	addons.xpi	DEBUG	Changed add-on {3e9a3920-1b27-11da-8cd6-0800200c9a66} in app-profile
+1494483524387	addons.xpi	DEBUG	getModTime: Recursive scan of disable-cert-transparency@mozilla.org
+1494483524387	addons.xpi	DEBUG	Changed add-on disable-cert-transparency@mozilla.org in app-system-addons
+1494483524387	addons.xpi	DEBUG	getModTime: Recursive scan of disable-prefetch@mozilla.org
+1494483524387	addons.xpi	DEBUG	Changed add-on disable-prefetch@mozilla.org in app-system-addons
+1494483524388	addons.xpi	DEBUG	getModTime: Recursive scan of e10srollout@mozilla.org
+1494483524388	addons.xpi	DEBUG	Changed add-on e10srollout@mozilla.org in app-system-addons
+1494483524389	addons.xpi	DEBUG	getInstallState changed: true, state: {"app-profile":{"{3e9a3920-1b27-11da-8cd6-0800200c9a66}":{"d":"C:\\Users\\Gui\\AppData\\Local\\Temp\\rust_mozprofile.CbnyWpHyogTf\\extensions\\{3e9a3920-1b27-11da-8cd6-0800200c9a66}.xpi","e":true,"v":"3.11","st":1494483523999}},"app-system-addons":{"disable-cert-transparency@mozilla.org":{"d":"C:\\Users\\Gui\\AppData\\Local\\Temp\\rust_mozprofile.CbnyWpHyogTf\\features\\{3ecf4fe2-636d-4090-91f7-0c73ef99feac}\\disable-cert-transparency@mozilla.org.xpi","e":true,"v":"1.0","st":1494483524001},"disable-prefetch@mozilla.org":{"d":"C:\\Users\\Gui\\AppData\\Local\\Temp\\rust_mozprofile.CbnyWpHyogTf\\features\\{3ecf4fe2-636d-4090-91f7-0c73ef99feac}\\disable-prefetch@mozilla.org.xpi","e":true,"v":"1.0","st":1494483524002},"e10srollout@mozilla.org":{"d":"C:\\Users\\Gui\\AppData\\Local\\Temp\\rust_mozprofile.CbnyWpHyogTf\\features\\{3ecf4fe2-636d-4090-91f7-0c73ef99feac}\\e10srollout@mozilla.org.xpi","e":true,"v":"1.12","st":1494483524002}}}
+1494483524395	addons.xpi-utils	DEBUG	Opening XPI database C:\Users\Gui\AppData\Local\Temp\rust_mozprofile.CbnyWpHyogTf\extensions.json
+1494483524398	addons.xpi-utils	DEBUG	Successfully read XPI database
+1494483524400	addons.xpi-utils	DEBUG	Add-on {3e9a3920-1b27-11da-8cd6-0800200c9a66} modified in app-profile
+*** Blocklist::_loadBlocklistFromFile: blocklist is disabled
+1494483524411	DeferredSave.extensions.json	DEBUG	Save changes
+1494483524413	DeferredSave.extensions.json	DEBUG	Save changes
+1494483524413	addons.xpi-utils	DEBUG	Add-on disable-cert-transparency@mozilla.org modified in app-system-addons
+1494483524416	DeferredSave.extensions.json	DEBUG	Starting timer
+1494483524420	DeferredSave.extensions.json	DEBUG	Save changes
+1494483524421	DeferredSave.extensions.json	DEBUG	Save changes
+1494483524421	addons.xpi-utils	DEBUG	Add-on disable-prefetch@mozilla.org modified in app-system-addons
+1494483524428	DeferredSave.extensions.json	DEBUG	Save changes
+1494483524429	DeferredSave.extensions.json	DEBUG	Save changes
+1494483524429	addons.xpi-utils	DEBUG	Add-on e10srollout@mozilla.org modified in app-system-addons
+1494483524435	DeferredSave.extensions.json	DEBUG	Save changes
+1494483524436	DeferredSave.extensions.json	DEBUG	Save changes
+1494483524436	addons.xpi-utils	DEBUG	Add-on aushelper@mozilla.org removed from app-system-defaults
+1494483524436	DeferredSave.extensions.json	DEBUG	Save changes
+1494483524436	addons.xpi-utils	DEBUG	Add-on e10srollout@mozilla.org removed from app-system-defaults
+1494483524436	DeferredSave.extensions.json	DEBUG	Save changes
+1494483524436	addons.xpi-utils	DEBUG	Add-on firefox@getpocket.com removed from app-system-defaults
+1494483524437	DeferredSave.extensions.json	DEBUG	Save changes
+1494483524437	addons.xpi-utils	DEBUG	Add-on webcompat@mozilla.org removed from app-system-defaults
+1494483524437	DeferredSave.extensions.json	DEBUG	Save changes
+1494483524437	addons.xpi-utils	DEBUG	Add-on deployment-checker@mozilla.org removed from app-system-defaults
+1494483524437	DeferredSave.extensions.json	DEBUG	Save changes
+1494483524437	addons.xpi-utils	DEBUG	Add-on {972ce4c6-7e08-4474-a285-3208198ce6fd} removed from app-global
+1494483524437	DeferredSave.extensions.json	DEBUG	Save changes
+1494483524438	addons.manager	DEBUG	Registering startup change 'changed' for {3e9a3920-1b27-11da-8cd6-0800200c9a66}
+1494483524438	addons.xpi-utils	DEBUG	Make addon app-profile:{3e9a3920-1b27-11da-8cd6-0800200c9a66} visible
+1494483524442	addons.xpi	DEBUG	Add-on {3e9a3920-1b27-11da-8cd6-0800200c9a66} blocks e10s rollout.
+1494483524442	DeferredSave.extensions.json	DEBUG	Save changes
+1494483524442	addons.manager	DEBUG	Registering startup change 'changed' for disable-cert-transparency@mozilla.org
+1494483524448	addons.xpi	DEBUG	Loading bootstrap scope from C:\Users\Gui\AppData\Roaming\Mozilla\Firefox\Profiles\pg1j7ph2.default\features\{3ecf4fe2-636d-4090-91f7-0c73ef99feac}\disable-cert-transparency@mozilla.org.xpi
+1494483524452	addons.xpi	DEBUG	Calling bootstrap method uninstall on disable-cert-transparency@mozilla.org version 1.0
+1494483524453	addons.xpi	DEBUG	Loading bootstrap scope from C:\Users\Gui\AppData\Local\Temp\rust_mozprofile.CbnyWpHyogTf\features\{3ecf4fe2-636d-4090-91f7-0c73ef99feac}\disable-cert-transparency@mozilla.org.xpi
+1494483524455	addons.xpi	DEBUG	Calling bootstrap method install on disable-cert-transparency@mozilla.org version 1.0
+1494483524455	addons.xpi-utils	DEBUG	Make addon app-system-addons:disable-cert-transparency@mozilla.org visible
+1494483524455	addons.xpi	DEBUG	Add-on {3e9a3920-1b27-11da-8cd6-0800200c9a66} blocks e10s rollout.
+1494483524456	DeferredSave.extensions.json	DEBUG	Save changes
+1494483524456	addons.manager	DEBUG	Registering startup change 'changed' for disable-prefetch@mozilla.org
+1494483524456	addons.xpi	DEBUG	Loading bootstrap scope from C:\Users\Gui\AppData\Roaming\Mozilla\Firefox\Profiles\pg1j7ph2.default\features\{3ecf4fe2-636d-4090-91f7-0c73ef99feac}\disable-prefetch@mozilla.org.xpi
+1494483524458	addons.xpi	DEBUG	Calling bootstrap method uninstall on disable-prefetch@mozilla.org version 1.0
+1494483524458	addons.xpi	DEBUG	Loading bootstrap scope from C:\Users\Gui\AppData\Local\Temp\rust_mozprofile.CbnyWpHyogTf\features\{3ecf4fe2-636d-4090-91f7-0c73ef99feac}\disable-prefetch@mozilla.org.xpi
+1494483524461	addons.xpi	DEBUG	Calling bootstrap method install on disable-prefetch@mozilla.org version 1.0
+1494483524461	addons.xpi-utils	DEBUG	Make addon app-system-addons:disable-prefetch@mozilla.org visible
+1494483524461	addons.xpi	DEBUG	Add-on {3e9a3920-1b27-11da-8cd6-0800200c9a66} blocks e10s rollout.
+1494483524461	DeferredSave.extensions.json	DEBUG	Save changes
+1494483524461	addons.manager	DEBUG	Registering startup change 'changed' for e10srollout@mozilla.org
+1494483524462	addons.xpi	DEBUG	Loading bootstrap scope from C:\Users\Gui\AppData\Roaming\Mozilla\Firefox\Profiles\pg1j7ph2.default\features\{3ecf4fe2-636d-4090-91f7-0c73ef99feac}\e10srollout@mozilla.org.xpi
+1494483524463	addons.xpi	DEBUG	Calling bootstrap method uninstall on e10srollout@mozilla.org version 1.12
+1494483524464	addons.xpi	DEBUG	Loading bootstrap scope from C:\Users\Gui\AppData\Local\Temp\rust_mozprofile.CbnyWpHyogTf\features\{3ecf4fe2-636d-4090-91f7-0c73ef99feac}\e10srollout@mozilla.org.xpi
+1494483524466	addons.xpi	DEBUG	Calling bootstrap method install on e10srollout@mozilla.org version 1.12
+1494483524466	addons.xpi-utils	DEBUG	Make addon app-system-addons:e10srollout@mozilla.org visible
+1494483524466	addons.xpi	DEBUG	Add-on {3e9a3920-1b27-11da-8cd6-0800200c9a66} blocks e10s rollout.
+1494483524466	DeferredSave.extensions.json	DEBUG	Save changes
+1494483524467	addons.xpi	DEBUG	Loading bootstrap scope from C:\Program Files (x86)\Mozilla Firefox\browser\features\aushelper@mozilla.org.xpi
+1494483524469	addons.xpi	DEBUG	Calling bootstrap method uninstall on aushelper@mozilla.org version 2.0
+1494483524469	addons.manager	DEBUG	Registering startup change 'uninstalled' for aushelper@mozilla.org
+1494483524469	addons.xpi	DEBUG	Loading bootstrap scope from C:\Program Files (x86)\Mozilla Firefox\browser\features\firefox@getpocket.com.xpi
+1494483524472	addons.xpi	DEBUG	Calling bootstrap method uninstall on firefox@getpocket.com version 1.0.5
+1494483524472	addons.manager	DEBUG	Registering startup change 'uninstalled' for firefox@getpocket.com
+1494483524473	addons.xpi	DEBUG	Loading bootstrap scope from C:\Program Files (x86)\Mozilla Firefox\browser\features\webcompat@mozilla.org.xpi
+1494483524474	addons.xpi	DEBUG	Calling bootstrap method uninstall on webcompat@mozilla.org version 1.0
+1494483524474	addons.manager	DEBUG	Registering startup change 'uninstalled' for webcompat@mozilla.org
+1494483524475	addons.xpi	DEBUG	Loading bootstrap scope from C:\Program Files (x86)\Mozilla Firefox\browser\features\deployment-checker@mozilla.org.xpi
+1494483524479	addons.xpi	DEBUG	Calling bootstrap method uninstall on deployment-checker@mozilla.org version 1.0
+1494483524479	addons.manager	DEBUG	Registering startup change 'uninstalled' for deployment-checker@mozilla.org
+1494483524479	addons.manager	DEBUG	Registering startup change 'uninstalled' for {972ce4c6-7e08-4474-a285-3208198ce6fd}
+1494483524480	addons.xpi	DEBUG	Updating XPIState for {"id":"{3e9a3920-1b27-11da-8cd6-0800200c9a66}","syncGUID":"{a26b3998-2e9f-499e-bbd7-67bcec77c523}","location":"app-profile","version":"3.11","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":"chrome://charles/content/about.xul","icons":{},"iconURL":"chrome://charles/skin/charles_icon.png","icon64URL":null,"defaultLocale":{"name":"Charles Proxy Auto-configuration","description":"Auto-configures Mozilla Firefox for use with Charles Web Debugging Proxy.","creator":"XK72","homepageURL":"http://www.charlesproxy.com/"},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"descriptor":"C:\\Users\\Gui\\AppData\\Local\\Temp\\rust_mozprofile.CbnyWpHyogTf\\extensions\\{3e9a3920-1b27-11da-8cd6-0800200c9a66}.xpi","installDate":1492739942003,"updateDate":1494483523999,"applyBackgroundUpdates":1,"bootstrap":false,"skinnable":false,"size":24288,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"1.5","maxVersion":"12.*"}],"targetPlatforms":[],"multiprocessCompatible":false,"signedState":2,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false}
+1494483524480	addons.xpi	DEBUG	Updating XPIState for {"id":"disable-cert-transparency@mozilla.org","syncGUID":"{da4fbd34-cbc6-4362-a25a-f42f63b7e8ad}","location":"app-system-addons","version":"1.0","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"icons":{},"iconURL":null,"icon64URL":null,"defaultLocale":{"name":"Disable TLS Certificate Transparency","description":"Disables TLS Certificate Transparency default in 52.* (see bug 1293231)","creator":null,"homepageURL":null},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"descriptor":"C:\\Users\\Gui\\AppData\\Local\\Temp\\rust_mozprofile.CbnyWpHyogTf\\features\\{3ecf4fe2-636d-4090-91f7-0c73ef99feac}\\disable-cert-transparency@mozilla.org.xpi","installDate":1492739977039,"updateDate":1494483524001,"applyBackgroundUpdates":1,"bootstrap":true,"skinnable":false,"size":6534,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"52.0","maxVersion":"52.*"}],"targetPlatforms":[],"multiprocessCompatible":true,"signedState":3,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false}
+1494483524480	addons.xpi	DEBUG	Updating XPIState for {"id":"disable-prefetch@mozilla.org","syncGUID":"{fa43d1bd-1a32-4205-86a8-b3706b08969b}","location":"app-system-addons","version":"1.0","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"icons":{},"iconURL":null,"icon64URL":null,"defaultLocale":{"name":"Disable Prefetch","description":"Disables predictive prefetch by default in 52.*.","creator":null,"homepageURL":null},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"descriptor":"C:\\Users\\Gui\\AppData\\Local\\Temp\\rust_mozprofile.CbnyWpHyogTf\\features\\{3ecf4fe2-636d-4090-91f7-0c73ef99feac}\\disable-prefetch@mozilla.org.xpi","installDate":1492739977084,"updateDate":1494483524002,"applyBackgroundUpdates":1,"bootstrap":true,"skinnable":false,"size":6469,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"52.0","maxVersion":"52.*"}],"targetPlatforms":[],"multiprocessCompatible":true,"signedState":3,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false}
+1494483524480	addons.xpi	DEBUG	Updating XPIState for {"id":"e10srollout@mozilla.org","syncGUID":"{9e7e5685-ac7f-4c7d-a3dd-60af44a0c45c}","location":"app-system-addons","version":"1.12","type":"extension","internalName":null,"updateURL":null,"updateKey":null,"optionsURL":null,"optionsType":null,"aboutURL":null,"icons":{},"iconURL":null,"icon64URL":null,"defaultLocale":{"name":"Multi-process staged rollout","description":"Staged rollout of Firefox multi-process feature.","creator":null,"homepageURL":null},"visible":true,"active":true,"userDisabled":false,"appDisabled":false,"descriptor":"C:\\Users\\Gui\\AppData\\Local\\Temp\\rust_mozprofile.CbnyWpHyogTf\\features\\{3ecf4fe2-636d-4090-91f7-0c73ef99feac}\\e10srollout@mozilla.org.xpi","installDate":1492739977107,"updateDate":1494483524002,"applyBackgroundUpdates":1,"bootstrap":true,"skinnable":false,"size":11854,"sourceURI":null,"releaseNotesURI":null,"softDisabled":false,"foreignInstall":false,"hasBinaryComponents":false,"strictCompatibility":false,"locales":[],"targetApplications":[{"id":"{ec8030f7-c20a-464f-9b0e-13a3a9e97384}","minVersion":"51.0","maxVersion":"52.*"}],"targetPlatforms":[],"multiprocessCompatible":true,"signedState":3,"seen":true,"dependencies":[],"hasEmbeddedWebExtension":false,"mpcOptedOut":false}
+1494483524481	addons.xpi	DEBUG	Add-on {3e9a3920-1b27-11da-8cd6-0800200c9a66} blocks e10s rollout.
+1494483524481	DeferredSave.extensions.json	DEBUG	Save changes
+1494483524481	addons.xpi	DEBUG	Updating database with changes to installed add-ons
+1494483524481	addons.xpi-utils	DEBUG	Updating add-on states
+1494483524481	addons.xpi-utils	DEBUG	Writing add-ons list
+1494483524487	addons.xpi	DEBUG	Registering manifest for C:\Users\Gui\AppData\Local\Temp\rust_mozprofile.CbnyWpHyogTf\features\{3ecf4fe2-636d-4090-91f7-0c73ef99feac}\disable-cert-transparency@mozilla.org.xpi
+1494483524488	addons.xpi	DEBUG	Calling bootstrap method startup on disable-cert-transparency@mozilla.org version 1.0
+1494483524489	addons.xpi	DEBUG	Registering manifest for C:\Users\Gui\AppData\Local\Temp\rust_mozprofile.CbnyWpHyogTf\features\{3ecf4fe2-636d-4090-91f7-0c73ef99feac}\disable-prefetch@mozilla.org.xpi
+1494483524489	addons.xpi	DEBUG	Calling bootstrap method startup on disable-prefetch@mozilla.org version 1.0
+1494483524490	addons.xpi	DEBUG	Registering manifest for C:\Users\Gui\AppData\Local\Temp\rust_mozprofile.CbnyWpHyogTf\features\{3ecf4fe2-636d-4090-91f7-0c73ef99feac}\e10srollout@mozilla.org.xpi
+1494483524490	addons.xpi	DEBUG	Calling bootstrap method startup on e10srollout@mozilla.org version 1.12
+1494483524492	addons.manager	DEBUG	Registering shutdown blocker for XPIProvider
+1494483524492	addons.manager	DEBUG	Provider finished startup: XPIProvider
+1494483524492	addons.manager	DEBUG	Starting provider: LightweightThemeManager
+1494483524492	addons.manager	DEBUG	Registering shutdown blocker for LightweightThemeManager
+1494483524493	addons.manager	DEBUG	Provider finished startup: LightweightThemeManager
+1494483524493	addons.manager	DEBUG	Starting provider: GMPProvider
+1494483524502	addons.manager	DEBUG	Registering shutdown blocker for GMPProvider
+1494483524502	addons.manager	DEBUG	Provider finished startup: GMPProvider
+1494483524502	addons.manager	DEBUG	Starting provider: PluginProvider
+1494483524502	addons.manager	DEBUG	Registering shutdown blocker for PluginProvider
+1494483524503	addons.manager	DEBUG	Provider finished startup: PluginProvider
+1494483524503	addons.manager	DEBUG	Completed startup sequence
+1494483524766	Marionette	INFO	Listening on port 57419
+1494483524805	addons.manager	DEBUG	Starting provider: PreviousExperimentProvider
+1494483524805	addons.manager	DEBUG	Registering shutdown blocker for PreviousExperimentProvider
+1494483524805	addons.manager	DEBUG	Provider finished startup: PreviousExperimentProvider
+1494483524807	DeferredSave.extensions.json	DEBUG	Starting write
+1494483524895	DeferredSave.extensions.json	DEBUG	Write succeeded
+1494483524896	addons.xpi-utils	DEBUG	XPI Database saved, setting schema version preference to 19
+1494483525444	addons.manager	DEBUG	Starting provider: <unnamed-provider>
+1494483525444	addons.manager	DEBUG	Registering shutdown blocker for <unnamed-provider>
+1494483525444	addons.manager	DEBUG	Provider finished startup: <unnamed-provider>
+1494483525470	Marionette	WARN	TLS certificate errors will be ignored for this session
+1494483545529	addons.xpi	DEBUG	Calling bootstrap method shutdown on e10srollout@mozilla.org version 1.12
+1494483545529	addons.xpi	DEBUG	Calling bootstrap method shutdown on disable-prefetch@mozilla.org version 1.0
+1494483545529	addons.xpi	DEBUG	Calling bootstrap method shutdown on disable-cert-transparency@mozilla.org version 1.0
+[Child 8900] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+[Child 8900] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+1494483545704	addons.manager	DEBUG	shutdown
+1494483545704	addons.manager	DEBUG	Calling shutdown blocker for XPIProvider
+1494483545704	addons.xpi	DEBUG	shutdown
+1494483545704	addons.xpi-utils	DEBUG	shutdown
+1494483545705	addons.manager	DEBUG	Calling shutdown blocker for LightweightThemeManager
+1494483545705	addons.manager	DEBUG	Calling shutdown blocker for GMPProvider
+1494483545708	addons.manager	DEBUG	Calling shutdown blocker for PluginProvider
+1494483545709	addons.manager	DEBUG	Calling shutdown blocker for PreviousExperimentProvider
+1494483545710	addons.manager	DEBUG	Calling shutdown blocker for <unnamed-provider>
+1494483545711	addons.xpi	DEBUG	Notifying XPI shutdown observers
+1494483545713	addons.manager	DEBUG	Async provider shutdown done

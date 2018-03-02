@@ -1,0 +1,61 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1498457574546" stop="1498457574560">
+  <description>
+Created on 2017-06-19
+
+@Filename: test_expectation
+@Author: Gui
+
+
+</description>
+  <name>pytest_demos.test_expectation</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1498457574546" status="passed" stop="1498457574550">
+      <name>test_eval[3+5-8]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="13244-MainThread"/>
+        <label name="host" value="DESKTOP-C6A0IIE"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1498457574550" status="passed" stop="1498457574551">
+      <name>test_eval[2+4-6]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="13244-MainThread"/>
+        <label name="host" value="DESKTOP-C6A0IIE"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1498457574552" status="pending" stop="1498457574560">
+      <name>test_eval[7*7-44]</name>
+      <failure>
+        <message></message>
+        <stack-trace>test_input = '7*7', excepted = 44
+
+    @pytest.mark.parametrize('test_input, excepted', [
+        ('3+5', 8),
+        ('2+4', 6),
+        # ('6*9', 42),
+        pytest.param('7*7', 44, marks=pytest.mark.xfail)
+    ])
+    def test_eval(test_input, excepted):
+&gt;       assert eval(test_input) == excepted
+E       AssertionError: assert 49 == 44
+E        +  where 49 = eval('7*7')
+
+test_expectation.py:20: AssertionError</stack-trace>
+      </failure>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="13244-MainThread"/>
+        <label name="host" value="DESKTOP-C6A0IIE"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>

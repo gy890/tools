@@ -1,0 +1,47 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1498457574528" stop="1498457574546">
+  <description>
+Created on 2017-06-19
+
+@Filename: test_class
+@Author: Gui
+
+
+</description>
+  <name>pytest_demos.test_class</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1498457574528" status="passed" stop="1498457574533">
+      <name>TestClass.test_one</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="13244-MainThread"/>
+        <label name="host" value="DESKTOP-C6A0IIE"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1498457574534" status="failed" stop="1498457574546">
+      <name>TestClass.test_two</name>
+      <failure>
+        <message>AssertionError: assert False
+ +  where False = hasattr('hello', 'check')</message>
+        <stack-trace>self = &lt;pytest_demos.test_class.TestClass object at 0x000001DBDE9A5C18&gt;
+
+    def test_two(self):
+        x = 'hello'
+&gt;       assert hasattr(x, 'check')
+E       AssertionError: assert False
+E        +  where False = hasattr('hello', 'check')
+
+test_class.py:19: AssertionError</stack-trace>
+      </failure>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="13244-MainThread"/>
+        <label name="host" value="DESKTOP-C6A0IIE"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>
